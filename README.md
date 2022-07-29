@@ -11,4 +11,4 @@ Firmware for my custom splitted keyboard with nordic design.
 - Click on reset button on keyboard 4 times and wait for flash to complete
 - Connect the other half to USB and again run `qmk flash -kb Sofle -km CustomNordicMathias`
 Again click on the reset button 4 times and wait for flash to complete, disconnect when done
-- First connect TRSS cable and then USB cable on the left part
+- First connect TRSS cable and then connect USB cable on the left part
