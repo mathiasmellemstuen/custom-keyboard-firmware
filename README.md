@@ -1,4 +1,4 @@
-# keyboard_qmk_firmware
+# Custom keyboard firmware
 ![Image of the keyboard](https://github.com/mathiasmellemstuen/keyboard_qmk_firmware/blob/main/soflekeyboard-image.jpg)
 This repository contains firmware for my custom splitted keyboard with nordic design. The keyboard I'm using is a <a href="https://github.com/josefadamcik/SofleKeyboard" target="_blank">Sofle by Josef Adamchik</a>. This firmware is based on the <a href="https://qmk.fm/" target="_blank">QMK</a> firmware.
 
@@ -22,7 +22,7 @@ This layer contains all the function keys.
 ## How do I flash the firmware on the keyboard?
 - Install qmk (for macOS: `brew install qmk/qmk/qmk`)
 - Setup qmk with `qmk setup`
-- Move the CustomNordicMathias to `{qmk install directory}/keyboards/sofle/keymaps`
+- Move the `CustomNordicMathias` folder to `{qmk install directory}/keyboards/sofle/keymaps`
 - Compile firmware with `qmk compile -kb sofle -km CustomNordicMathias`
 - Disconnect the TRSS cable between the splitted keyboard parts
 - Connnect one of the halves to USB and run `qmk flash -kb Sofle -km CustomNordicMathias`
