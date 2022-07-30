@@ -19,6 +19,9 @@ Layer 3 contains the pipe key at the 7 key.
 ### Layer 4
 This layer contains all the function keys.
 
+### Rotors
+The illustration does not show the rotors on the keyboard. The keyboard consists of two rotors. The rotor on the right side controls the volume on the system. When this rotor is pressed, it mutes the audio. The left rotor controls media. You can use this rotor to fast forward / rewind media on the system. When rotor is pressed, it pauses/resumes media on the system.
+
 ## How do I flash the firmware on the keyboard?
 - Install qmk (for macOS: `brew install qmk/qmk/qmk`)
 - Setup qmk with `qmk setup`
