@@ -51,12 +51,12 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   XXXXXXX , XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,  XXXXXXX, XXXXXXX,     XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,
                     _______, _______, _______, _______, _______,     _______, _______, _______, _______, _______
   ),
-[_CUSTOM_LAYER_4] = LAYOUT(
-  XXXXXXX , XXXXXXX,  XXXXXXX, XXXXXXX , XXXXXXX, XXXXXXX,                     XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,
-  XXXXXXX , XXXXXXX, XXXXXXX, XXXXXXX,XXXXXXX,XXXXXXX,                     XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,
-  XXXXXXX , XXXXXXX,XXXXXXX, XXXXXXX, XXXXXXX,  XXXXXXX,                     XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,
-  XXXXXXX , XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,  XXXXXXX, XXXXXXX,     XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, NO_ACUT,
-                    _______, _______, TG(_CUSTOM_LAYER_4), KC_SPACE, _______,     _______, _______, _______, _______, _______
+  [_CUSTOM_LAYER_4] = LAYOUT(
+  _______, _______, _______, _______, _______, _______,                        _______, _______, _______, _______, _______, _______,
+  _______, _______, _______, _______, _______, _______,                        _______, _______, _______, _______, _______, _______,
+  _______, _______, _______, _______, _______, _______,                        _______, _______, _______, _______, _______, _______,
+  _______, _______, _______, _______, _______,  _______, _______,     _______, _______, _______, _______, _______, _______, _______,
+                     _______, _______, TG(_CUSTOM_LAYER_4), KC_SPACE, _______,     _______, _______, _______, _______, _______
   )
 };
 
