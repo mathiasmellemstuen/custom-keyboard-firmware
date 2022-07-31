@@ -19,7 +19,7 @@ Layer 3 contains the pipe key at the 7 key.
 ### Layer 4
 This layer contains all the function keys.
 
-## Layer 5
+### Layer 5
 This layer is a layer dedicated to setting the keyboard in gaming mode. It's only changing one key at the moment, adding an extra spacebar instead of the left return key. This is to prevent moving the wrist during gaming. 
 
 ### Rotors
