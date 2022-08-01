@@ -5,7 +5,7 @@ This repository contains firmware for my custom splitted keyboard with nordic de
 ## Keyboard layout
 This layout consists of multiple layers. The layout have different layer keys that changes the layout to another layer when it's pressed. The layer keys are marked as `LAYER` on the layer keys in the illustration below.
 
-![Layout of the keyboard](https://github.com/mathiasmellemstuen/keyboard_qmk_firmware/blob/main/soflekeyboard-custom-nordic-design-keyboard-editor-export.png)
+![Layout of the keyboard](https://raw.githubusercontent.com/mathiasmellemstuen/custom-keyboard-firmware/main/soflekeyboard-custom-nordic-design-keyboard-layout-editor-export.png)
 
 ### Layer 1
 Layer 1 is almost a standard nordic keyboard layout with a few exceptions. Layer 2 will activate if holding the yellow button on this layer.
